@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>icons/copy1.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/index.png</file>
+        <file>icons/new.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/save as.png</file>
+        <file>icons/save1.png</file>
+        <file>icons/about.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/copy2.png</file>
+        <file>icons/paste2.png</file>
+        <file>icons/save2.png</file>
+        <file>icons/cut2.png</file>
+        <file>icons/info2.png</file>
+        <file>icons/new2.png</file>
+        <file>icons/open2.png</file>
+        <file>icons/redo2.png</file>
+        <file>icons/undo2.png</file>
+        <file>icons/save3.png</file>
+        <file>icons/cut3.png</file>
+    </qresource>
+</RCC>
