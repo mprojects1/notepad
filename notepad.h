@@ -38,9 +38,9 @@ private slots:
 
     void on_actionFont_triggered();
 
-    void on_actionchange_selected_font_triggered();
+    //void on_actionchange_selected_font_triggered();
 
-    void on_actionquit_triggered();
+    //void on_actionquit_triggered();
 
     void on_actioncolor_triggered();
 
