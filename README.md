@@ -2,4 +2,4 @@
 notepad using c++ and qt
 
 
-realese: https://github.com/mprojects1/notepad.exe
+release: https://github.com/mprojects1/notepad.exe
